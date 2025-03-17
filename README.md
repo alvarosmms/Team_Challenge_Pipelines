@@ -81,8 +81,8 @@ pip install -r requirements.txt
 
 #### 🔹 **Ejecución del Proyecto**
 
-1. **Entrenamiento del Modelo:** Ejecuta [`<nombre_grupo>_Pipelines_I.ipynb`](src/result_notebooks/<nombre_grupo>_Pipelines_I.ipynb) para entrenar el modelo y guardarlo en `/src/models`.
-2. **Predicción y Evaluación:** Ejecuta [`<nombre_grupo>_Pipelines_II.ipynb`](src/result_notebooks/<nombre_grupo>_Pipelines_II.ipynb) para realizar predicciones y evaluar los resultados.
+1. **Entrenamiento del Modelo:** Ejecuta [`Plumblers_Enterprise_Pipelines_I.ipynb`](src/result_notebooks/<nombre_grupo>_Pipelines_I.ipynb) para entrenar el modelo y guardarlo en `/src/models`.
+2. **Predicción y Evaluación:** Ejecuta [`Plumblers_Enterpise_Pipelines_II.ipynb`](src/result_notebooks/<nombre_grupo>_Pipelines_II.ipynb) para realizar predicciones y evaluar los resultados.
 
 -------------------------
 
