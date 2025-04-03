@@ -1,4 +1,4 @@
-![Mi imagen](imagenes/mi_imagen.png)
+
 
 <h1 align="center">🔄 ML Pipelines - Team Challenge 🔄</h1>
 
